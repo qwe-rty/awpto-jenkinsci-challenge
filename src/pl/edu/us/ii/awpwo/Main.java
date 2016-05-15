@@ -1,4 +1,4 @@
-package pl.edu.us.ii.awpwo;
+//package pl.edu.us.ii.awpwo;
 
 public class Main
 {
