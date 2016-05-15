@@ -13,8 +13,6 @@ public class Main
 		maksiu.szczekaj();
 		rocky.szczekaj();
 		cezar.szczekaj(); // Mala zmiana
-		
-		System.out.println("HelloWorld!");
 	}
 
 }
